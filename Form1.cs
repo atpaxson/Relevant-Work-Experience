@@ -15,7 +15,7 @@ namespace CSharp_Assignment_4363
     public partial class Form1 : Form
     {
         ////////////////////////////////////////////////////////the string below is what connects me to the Walton back-end system
-        string connectionstring = "Data Source = essql1.walton.uark.edu; Initial Catalog = ISYS4283SP22U56; User ID = ISYS4283SP22U56; Password = GohogsUA1";
+        string connectionstring = "Data Source = _________________; Initial Catalog = ISYS4283__________; User ID = ISYS4283___________; Password = __________";
         SqlConnection connection;
         SqlCommand command;
         SqlDataReader datareader;
